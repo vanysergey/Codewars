@@ -13,11 +13,11 @@ Sam Harris => S.H
 patrick feeney => P.F
 
 # Solution:
-
+```
 function abbrevName(name){
     // code away
  [first, last] = name.toUpperCase().split(' ');
   return first[0] + '.' + last[0];
 }
-
+```
 
