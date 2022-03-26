@@ -21,3 +21,4 @@ function hero(bullets, dragons){
 return bullets/dragons >=2;//Get Coding!
 }
 ```
+[Return to README](/README.md)

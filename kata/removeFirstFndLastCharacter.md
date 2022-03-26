@@ -11,3 +11,4 @@ function removeChar(str){
    return str.slice(1,-1);
 };
 ```
+[Return to README](/README.md)

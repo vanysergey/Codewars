@@ -17,3 +17,4 @@ let array = Array.from(inputString);
   }
   // return correct age (int). Happy coding :) 
 ```
+[Return to README](/README.md)
