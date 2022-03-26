@@ -20,4 +20,4 @@ function abbrevName(name){
   return first[0] + '.' + last[0];
 }
 ```
-[Return to README](./README.md)
+## [Return to README](/README.md)
