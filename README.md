@@ -12,6 +12,7 @@
 - [Parse nice int from char problem](./kata/parseNiceIntFromCharProblem.md)
 - [Remove First and Last Character](./kata/removeFirstFndLastCharacter.md)
 - [Return Negative](./kata/returnNegative.md)
+- [Sort Numbers](./kata/sortNumbers.md)
 - [Square Every Digit](./kata/squareEveryDigit.md)
 - [Sum of positive](./kata/sumOfPositive.md)
 
