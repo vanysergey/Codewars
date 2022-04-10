@@ -4,7 +4,7 @@
 
 Write a function that checks if a given string (case insensitive) is a palindrome.
 
-# Solution:
+## Solution:
 ```
 function isPalindrome(x) {
   let toLowerCase = x.toLowerCase();

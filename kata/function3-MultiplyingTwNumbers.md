@@ -4,7 +4,7 @@
 
 Implement a function which multiplies two numbers.
 
-# Solution:
+## Solution:
 ```
 function multiply (x, y) {
   return x * y

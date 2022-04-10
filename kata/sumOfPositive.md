@@ -8,7 +8,7 @@ You get an array of numbers, return the sum of all of the positives ones.
 
 Note: if there is nothing to sum, the sum is default to 0.
 
-# Solution:
+## Solution:
 ```
 function positiveSum(arr) {
   let a=0; 

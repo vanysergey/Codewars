@@ -12,7 +12,7 @@ Sam Harris => S.H
 
 patrick feeney => P.F
 
-# Solution:
+## Solution:
 ```
 function abbrevName(name){
     // code away
