@@ -11,6 +11,7 @@
 - [Is it a palindrome?](./kata/isItAPalindrome.md)
 - [Parse nice int from char problem](./kata/parseNiceIntFromCharProblem.md)
 - [Remove First and Last Character](./kata/removeFirstFndLastCharacter.md)
+- [Reverse words](./kata/reverseWords.md)
 - [Return Negative](./kata/returnNegative.md)
 - [Sort Numbers](./kata/sortNumbers.md)
 - [Square Every Digit](./kata/squareEveryDigit.md)
