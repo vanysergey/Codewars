@@ -7,6 +7,7 @@
 - [Beginner Series #1 School Paperwork](./kata/beginnerSeries1SchoolPaperwork.md)
 - [Count of positives  sum of negatives](./kata/countOfPositivesSumOfNegatives.md)
 - [Function 3 - multiplying two numbers](./kata/function3-MultiplyingTwNumbers.md)
+- [How good are you really?](./kata/howGoodAreYouReally.md)
 - [Is he gonna survive](./kata/isHeGonnaSurvive.md)
 - [Is it a palindrome?](./kata/isItAPalindrome.md)
 - [Parse nice int from char problem](./kata/parseNiceIntFromCharProblem.md)
